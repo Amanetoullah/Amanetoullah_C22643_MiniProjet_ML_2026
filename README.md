@@ -27,7 +27,6 @@ Ce projet porte sur l'implémentation et l'analyse de deux modèles fondamentaux
 - `Machine Learning Mini-Projet.pptx`: Une présentation PowerPoint
 - `Gradient 3_Types.ipynb` : Exemples Implémentés 
 - 
-- 
 ## Références
 [1] Medical Insurance Cost Dataset, Kaggle. URL : https://www.kaggle.com/datasets/mirichoi/insurance  
 [2] Iris Dataset, Kaggle. URL : https://www.kaggle.com/datasets/uciml/iris
