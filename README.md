@@ -24,6 +24,8 @@ Ce projet porte sur l'implémentation et l'analyse de deux modèles fondamentaux
 - `Projet_ML_2026.ipynb` : Notebook Python contenant l'intégralité du code source et les visualisations.
 - `Rapport_Amanetoullah_C22643_ML_2026.pdf` : Rapport académique détaillant l'analyse et les résultats.
 - `README.md` : Documentation technique du projet.
+- `Machine Learning Mini-Projet.pptx`: Une présentation PowerPoint
+- 
 - 
 ## Références
 [1] Medical Insurance Cost Dataset, Kaggle. URL : https://www.kaggle.com/datasets/mirichoi/insurance  
